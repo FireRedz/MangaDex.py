@@ -20,7 +20,7 @@ setup(name='MangaDex.py',
       author_email='dev@ayaya.red',
       license='MIT',
       install_requires=[
-            'requests>=2.25.0',
+            'requests',
       ],
       classifiers=[
             'License :: OSI Approved :: MIT License',
